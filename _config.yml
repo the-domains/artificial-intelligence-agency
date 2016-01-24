@@ -1,7 +1,7 @@
 name: Artificial Intelligence Agency
 favicon: null
-layout_spectrum: 0.729911430273205
-typography_spectrum: 0.686157449381426
+layout_spectrum: 0
+typography_spectrum: 0.16956
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3545091859996319
-  lightness: 0.10589568596333265
-  saturation: 0.8575695832259953
-  rhythmicContrast: 0.20884856092743576
+    - '#000000'
+    - '#3d9299'
+    - '#4dbcc5'
+    - '#132f33'
+    - '#91d4d5'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
